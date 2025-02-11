@@ -3,7 +3,7 @@ package cycles;
 import java.util.Random;
 
 public class VeloElec extends Velo{
-	private final double facteurPuissanceMoteur;
+	private double facteurPuissanceMoteur;
 	
 	
 	public VeloElec(double braquet, double diamRoue, double coupleMoteur) {

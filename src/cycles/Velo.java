@@ -2,7 +2,7 @@ package cycles;
 import java.util.Random;
 
 public class Velo {
-	private final double braquet;
+	private double braquet;
 	private double diamRoue;
 	private Random genAlea;
 
