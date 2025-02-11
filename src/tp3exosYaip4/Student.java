@@ -29,7 +29,7 @@ public class Student extends Person{
 	}
 	
 	public double getFee() {
-		return fee
+		return fee;
 	}
 	
 	public void setFee(double fee) {
