@@ -1,0 +1,21 @@
+TP4 Java
+
+EX 5:
+Redéfinir une méthode signifie remplacer une méthode hérithée d'une classe mère dans une classe fille, cela permet à 
+la classe fille de fournir sa propre implémentation de la méthode.
+
+EX 6:
+Dans Velo et VeloElec, les méthodes getPuissance et toString sont redéfinies.
+
+EX 7 :
+L'annotation @Override placée avant la définition d'une méthode permet de vérifier que l'on redéfinit bien une méthode 
+existante.
+
+EX 8 :
+L'annotation @Override apporte une vérification par le compilateur et une clarté du code. On peut s'en dispenser mais cela 
+rend le code moins sécurisé, elle est donc fortement conseillée.
+
+EX 10 :
+Le mot clé super permet d'accéder à une méthode de la classe parente, on accède donc ici à la méthode getPuissance de la 
+classe Velo.
+
